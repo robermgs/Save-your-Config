@@ -3,16 +3,16 @@ Este programa esta diseñado para crear una copia de seguridad de las configurac
 
 Lista de Juegos soportados:
 
-PUBG
-Valorant
-Overwatch 2
-Battlefields
-CSGO
-Rust
-Rocket League
-Rainbow Six Siege
-Hunt
-Multiversus
-World War 3
-all of Dutys y Warzone
-Escape From Tarkov
+PUBG  
+Valorant  
+Overwatch 2 
+Battlefields  
+CSGO  
+Rust  
+Rocket League 
+Rainbow Six Siege 
+Hunt  
+Multiversus 
+World War 3 
+all of Dutys y Warzone  
+Escape From Tarkov  
