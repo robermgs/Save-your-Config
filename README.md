@@ -14,5 +14,5 @@ Rainbow Six Siege
 Hunt  
 Multiversus   
 World War 3   
-all of Dutys y Warzone    
+Call of Dutys y Warzone    
 Escape From Tarkov    
