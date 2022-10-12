@@ -3,10 +3,10 @@ Este programa esta diseñado para crear una copia de seguridad de las configurac
 
 Lista de Juegos soportados:
 
-PUBG  
-Valorant  
-Overwatch 2  
-Battlefields  
+PUBG
+Valorant
+Overwatch 2
+Battlefields
 CSGO
 Rust
 Rocket League
